@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Coding-Blogs-App/static/css/main.1f35698c.css",
+    "main.js": "/Coding-Blogs-App/static/js/main.6bd0332a.js",
+    "index.html": "/Coding-Blogs-App/index.html",
+    "main.1f35698c.css.map": "/Coding-Blogs-App/static/css/main.1f35698c.css.map",
+    "main.6bd0332a.js.map": "/Coding-Blogs-App/static/js/main.6bd0332a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1f35698c.css",
+    "static/js/main.6bd0332a.js"
+  ]
+}
